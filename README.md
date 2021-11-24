@@ -24,6 +24,6 @@
 ### 3. 数据下载地址
     中文恶意网页列表（含URL）的地址：见项目的“中文恶意网页列表+URL.xlsx”文件。
     
-    中文恶意网页HTML与JavaScript文件下载地址：https://www.mediafire.com/file/n1exlbjpx113f56/malicious_web_pages.zip/file
+    中文恶意网页HTML与JavaScript文件下载地址：请联系作者微信jyt629000，或qq：540980735。
 
     （经人工检测，恶意网页绝不含木马病毒，可以放心下载）

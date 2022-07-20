@@ -8,7 +8,7 @@
 ![中文恶意网页检测数据集列表2](https://github.com/JiangYanting/Chinese_Malicious_Web_Pages_Dataset_And_Detection/blob/main/%E4%B8%AD%E6%96%87%E6%81%B6%E6%84%8F%E7%BD%91%E9%A1%B5%E6%95%B0%E6%8D%AE%E5%88%97%E8%A1%A802.png)
 
 若在科研论文、项目工程中使用了该数据集，欢迎引用我们的工作：
-> Jiang Yanting. A novel Chinese malicious webpages detection method based on the pre-trained language model[C]. The 22nd Chinese Lexical Semantic Workshop(CLSW), 2021.
+> Yanting Jiang, Di Wu. A novel Chinese malicious webpages detection method based on the pre-trained language model[C]. The 19th International Conference of Web Information Systems and Applications（WISA 2022）, 2022.
    
    
 

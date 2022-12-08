@@ -10,7 +10,20 @@
 若在科研论文、项目工程中使用了该数据集，欢迎引用我们的工作：
 > Yanting Jiang, Di Wu. A novel Chinese malicious webpages detection method based on the pre-trained language model[C]. The 19th International Conference of Web Information Systems and Applications（WISA 2022）, 2022.
    
-   
+>   @InProceedings{10.1007/978-3-031-20309-1_14,
+>   author="Jiang, Yanting and Wu, Di",
+>   title="An Integrated Chinese Malicious Webpages Detection Method Based on Pre-trained Language Models and Feature Fusion",
+>   booktitle="Web Information Systems and Applications",
+>   year="2022",
+>   publisher="Springer International Publishing",
+>   address="Cham",
+>   pages="155--167",
+>   abstract="This paper proposed an integrated Chinese malicious webpages detection method. Firstly, we collected and released a Chinese malicious webpages detection >   dataset called ``ChiMalPages'' containing URLs and HTML/JavaScript files, and specified the detailed types of malicious pages according to relevant laws. Secondly, >   we designed a feature template for Chinese webpages and ranked each feature's importance based on information gain of the Random Forest algorithm. Thirdly, we 
+>   fine-tuned BERT on the external URLs classification task and text on webpages, respectively producing new models ``BERT-URL'' and ``BERT-web-text''. The    
+>   performance of pre-trained models is obviously superior to the baseline models. Finally, we integrated features from manual templates, BERT-URL and BERT-web-text, >   and the classification F1 score reaches 79.84{\%}, increasing by 7.37{\%} compared with manually designed webpage features. Experiments proved that our method 
+>   based on BERT is useful and not biased on detailed classes.",
+>   isbn="978-3-031-20309-1"
+>   }
 
 ### 1. 简介
     

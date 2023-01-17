@@ -9,7 +9,8 @@
 
 若在科研论文、项目工程中使用了该数据集，欢迎引用我们的工作：
 > Yanting Jiang, Di Wu. A novel Chinese malicious webpages detection method based on the pre-trained language model[C]. The 19th International Conference of Web Information Systems and Applications（WISA 2022）, 2022, 155--167, Springer,  https://link.springer.com/chapter/10.1007/978-3-031-20309-1_14.
-   
+
+论文下载链接：https://github.com/JiangYanting/Chinese_Malicious_Web_Pages_Dataset_And_Detection/blob/main/An%20integrated%20Chinese%20malicious%20webpages%20detection%20method.pdf
 
 
 ### 1. 简介
